@@ -1,2 +1,5 @@
 Set __COMPAT_LAYER =RunAsInvoker
 Start SteamSetup.txt
+
+# replace txt == exe
+use for bypass password to install software
