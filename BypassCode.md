@@ -13,3 +13,4 @@ They can be used to gain access to an account by appending the code to the user'
 Security:
 Bypass codes are generally single-use and have a limited lifespan to reduce the risk of unauthorized access.
 They should be stored securely and only used when necessary.
+Link//: https://www.logintc.com/docs/guides/bypass-codes/#what-is-a-bypass-code
